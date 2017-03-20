@@ -1,0 +1,24 @@
+fichier permettant de stocker les informations relatifs a un membre : 
+numero 
+nom 
+prenom 
+adresse 
+classe 
+etc
+ 
+fichier permettant de stocker les formations 
+code 
+intitule 
+annee 
+etc 
+
+un membre pouvant suivre une ou plusieurs formation a l'esp 
+
+inserer membre : numero comme clef donc non duplicable 
+rechercher membre par son numero puis on affiche ses informations 
+modifier membre , supprimer membre
+
+fichier permettant de stocker les login et mdp seront stocker dans un fichier 
+
+fichier pour sauvegarder les infos de l'utilisateur apres deconexion
+
